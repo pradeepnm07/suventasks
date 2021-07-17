@@ -1,0 +1,5 @@
+package homeInventory;
+
+class InventoryItemTest {
+
+}
